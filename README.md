@@ -1,6 +1,15 @@
 Unified Device Tree for Moto G Turbo (merlin)
 ============================================
 
+<center>
+
+Branch   | ROM
+-------:|:-------------------------
+q10.0     | AICP v15
+lineage-17.1 | Lineage 17.1
+
+</center>
+
 The Motorola Moto G Turbo (codenamed _"merlin"_) is a mid-range smartphone
 from Motorola Mobility. It was released in November 2015.
 
@@ -17,7 +26,9 @@ Battery | Li-Ion 2470mAh battery
 Display | 720 x 1280 pixels, 5.0 inches (~294 ppi pixel density)
 Camera  | 13 MP, 4160 x 2340 pixels, autofocus, LED flash
 
-Copyright 2016 - The CyanogenMod Project.
+Copyright 2016 - The CyanogenMod Project.<br>
 Copyright 2020 - The LineageOS Project.
 
-![Moto G Turbo](https://wiki.lineageos.org/images/devices/merlin.png "Moto G Turbo")
+<p align=center>
+<img src="https://wiki.lineageos.org/images/devices/merlin.png" alt="Moto G Turbo" title="Moto G Turbo" />
+</p>
