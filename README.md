@@ -18,5 +18,6 @@ Display | 720 x 1280 pixels, 5.0 inches (~294 ppi pixel density)
 Camera  | 13 MP, 4160 x 2340 pixels, autofocus, LED flash
 
 Copyright 2016 - The CyanogenMod Project.
+Copyright 2020 - The LineageOS Project.
 
-![Moto G Turbo](https://wiki.cyanogenmod.org/images/thumb/8/81/Osprey.png/314px-Osprey.png "Moto G Turbo")
+![Moto G Turbo](https://wiki.lineageos.org/images/devices/merlin.png "Moto G Turbo")
