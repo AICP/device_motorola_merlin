@@ -1,5 +1,5 @@
 #
-# Copyright (C) 2018 The LineageOS Project
+# Copyright (C) 2020 Android Ice Cold Project
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -14,7 +14,8 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_merlin.mk
+    $(LOCAL_DIR)/aicp_merlin.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_merlin-userdebug
+    aicp_merlin-userdebug
+    aicp_merlin-eng
