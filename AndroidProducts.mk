@@ -17,5 +17,5 @@ PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/aicp_merlin.mk
 
 COMMON_LUNCH_CHOICES := \
-    aicp_merlin-userdebug
+    aicp_merlin-userdebug \
     aicp_merlin-eng
