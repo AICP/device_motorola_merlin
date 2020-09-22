@@ -1,7 +1,13 @@
 [
   {
-    "repository":  "device_motorola_msm8916-common",
-    "target_path": "device/motorola/msm8916-common"
+    "repository":  "AICP/device_motorola_msm8916-common",
+    "target_path": "device/motorola/msm8916-common",
+    "branch":      "q10.0"
+  },
+  {
+    "repository":  "AICP/kernel_motorola_msm8916",
+    "target_path": "kernel/motorola/msm8916",
+    "branch":      "q10.0"
   }
 ]
 
