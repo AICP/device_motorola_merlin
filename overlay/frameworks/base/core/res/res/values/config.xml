@@ -67,4 +67,7 @@
 
     <!-- Use default display mode -->
     <integer name="config_defaultLiveDisplayMode">0</integer>
+
+    <!-- Whether device has Turbo power charging support -->
+    <bool name="config_hasTurboPowerCharger">true</bool>
 </resources>
