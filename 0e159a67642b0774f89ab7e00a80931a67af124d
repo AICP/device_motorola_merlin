@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "4d640708_93716905",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 774
+      },
+      "writtenOn": "2021-01-02T04:03:20Z",
+      "side": 1,
+      "message": "You don\u0027t have to add these branch lines https://github.com/AICP/vendor_aicp/commit/fafabae6300a7b3ab13ca955ea1a70ab8a1dedd9#diff-a578c82bafec9f0bcfa9595c35ff6ae239001be2cd9e7058b8d0f7f7ec72a49d",
+      "revId": "0e159a67642b0774f89ab7e00a80931a67af124d",
+      "serverId": "9f904cbb-a964-4fab-a7dc-5cfc4d5c238b"
+    }
+  ]
+}
