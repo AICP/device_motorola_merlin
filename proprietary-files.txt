@@ -1,4 +1,4 @@
-# Device proprietary files - from Motorola package version MPI24.65-33.1 , unless pinned
+# Device proprietary files - from Motorola package version MPDS24.107-56-1-28 42 , unless pinned
 
 # Audio
 vendor/etc/acdbdata/Bluetooth_cal.acdb
@@ -9,13 +9,13 @@ vendor/etc/acdbdata/Hdmi_cal.acdb
 vendor/etc/acdbdata/Headset_cal.acdb
 vendor/etc/acdbdata/Speaker_cal.acdb
 
-# Camera
+# Camera - from athene-NPJ25.75-2, shamu-5.1.1, hex-edited
 vendor/bin/mm-qcamera-daemon
-vendor/lib/libadvalgcore.so
+vendor/lib/libadvalgcore.so |a7d5916b65ef4ee82cb66521fec65ab157849424
 vendor/lib/libcamerabgproc-jni.so
 vendor/lib/libcamerabgprocservice.so
-vendor/lib/libjscore.so
-vendor/lib/libjustshoot.so
+-vendor/lib/libjscore.so |ac5c08e7bbff901d9046437582bbbdf74a272d94
+-vendor/lib/libjustshoot.so |04911a3e7f5f4a50a89778c0809afbd6d3236e84
 vendor/lib/libmm-qcamera.so
 vendor/lib/libmmcamera_interface.so
 vendor/lib/libmmcamera_lux_standardization.so
@@ -41,16 +41,16 @@ vendor/lib/libmmcamera2_stats_algorithm.so
 vendor/lib/libmmcamera2_stats_modules.so
 vendor/lib/libmmcamera2_vpe_module.so
 vendor/lib/libmmcamera2_wnr_module.so
-vendor/lib/libmmcamera_faceproc.so
+-vendor/lib/libmmcamera_faceproc.so |ac49bcc1aa20ff9f2c118f6c233b658f93543202
 vendor/lib/libmmcamera_hdr_gb_lib.so
 vendor/lib/libmmcamera_hdr_lib.so
-vendor/lib/libmmcamera_imglib.so
+vendor/lib/libmmcamera_imglib.so |23a191f0609fff8bef0b5c8580bbc58f64e85813
 vendor/lib/libmmcamera_imx214.so
 vendor/lib/libmmcamera_s5k3m2.so
 vendor/lib/libmmcamera_s5k5e2.so
 vendor/lib/libmmcamera_tintless_algo.so
 vendor/lib/libmmcamera_tintless_bg_pca_algo.so
-vendor/lib/libmmcamera_vstab_module.so
+vendor/lib/libmmcamera_vstab_module.so |d8f41bea0da2cf05f9c9f3ac0440d1b011b8248f
 vendor/lib/libmmcamera_wavelet_lib.so
 vendor/lib/libmmjpeg.so
 vendor/lib/libmmqjpeg_codec.so
@@ -119,8 +119,8 @@ vendor/lib/libchromatix_s5k5e2_preview.so
 vendor/lib/libchromatix_s5k5e2_snapshot.so
 
 # Touchscreen
-vendor/firmware/synaptics-boe-s2726-15111801-1f711a-merlin.tdat
-vendor/firmware/synaptics-inx-s2726br_t-15111103-1f711a-merlin.tdat
+vendor/firmware/synaptics-boe-s2726-16020901-225ad4-merlin.tdat
+vendor/firmware/synaptics-inx-s2726br_t-16012301-225ad4-merlin.tdat
 
 # WCNSS
 vendor/firmware/wlan/prima/WCNSS_qcom_wlan_nv.bin
