@@ -79,8 +79,8 @@
         <item>"/system/bin/surfaceflinger"</item>
     </string-array>
 
-    <!-- List of files pinned by the Pinner Service with the apex boot image b/119800099 -->
-    <string-array translatable="false" name="config_apexBootImagePinnerServiceFiles">
+    <!-- List of files pinned by the Pinner Service with the JIT Zygote image b/119800099 -->
+    <string-array translatable="false" name="config_jitzygoteBootImagePinnerServiceFiles">
         <item>"/system_ext/priv-app/SystemUI/SystemUI.apk"</item>
         <item>"/system/lib/libsurfaceflinger.so"</item>
         <item>"/system/bin/surfaceflinger"</item>
